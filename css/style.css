@@ -1,0 +1,13 @@
+@import url('reset.css');
+@import url('typography.css'); 
+body {
+background-color: #f8f8f8;
+margin: auto;
+width: 100%;
+}
+div#status-bar {
+background: url('../img/status-bar-bg.png') repeat-x;
+border-bottom: 2px groove #ffffff;
+height: 40px;
+width: 100%;
+}
